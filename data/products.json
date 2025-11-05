@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Camiseta Premium",
+    "price": 39.90,
+    "image": "https://via.placeholder.com/300x200/10B981/FFFFFF?text=Camiseta",
+    "description": "100% algodão, entrega em 5 dias."
+  },
+  {
+    "id": 2,
+    "name": "Fone Sem Fio",
+    "price": 99.90,
+    "image": "https://via.placeholder.com/300x200/059669/FFFFFF?text=Fone",
+    "description": "Cancelamento de ruído, 24h de bateria."
+  },
+  {
+    "id": 3,
+    "name": "Tênis Leve",
+    "price": 179.90,
+    "image": "https://via.placeholder.com/300x200/34D399/FFFFFF?text=Tênis",
+    "description": "Ideal para corrida, entrega expressa."
+  }
+]

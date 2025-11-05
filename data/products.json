@@ -1,23 +1,107 @@
 [
   {
     "id": 1,
-    "name": "Camiseta Premium",
-    "price": 39.90,
-    "image": "https://via.placeholder.com/300x200/10B981/FFFFFF?text=Camiseta",
-    "description": "100% algodão, entrega em 5 dias."
+    "name": "T-shirt de Algodão Preto",
+    "price": 19.99,
+    "image": "https://m.media-amazon.com/images/I/71v3XJ0eF3L._AC_UY879_.jpg",
+    "description": "T-shirt 100% algodão, confortável, entrega em 7 dias."
   },
   {
     "id": 2,
-    "name": "Fone Sem Fio",
-    "price": 99.90,
-    "image": "https://via.placeholder.com/300x200/059669/FFFFFF?text=Fone",
-    "description": "Cancelamento de ruído, 24h de bateria."
+    "name": "Fones Bluetooth Sem Fio",
+    "price": 29.90,
+    "image": "https://m.media-amazon.com/images/I/61cM%2BRk4xFL._AC_SL1500_.jpg",
+    "description": "Fones com cancelamento de ruído, 20h de bateria."
   },
   {
     "id": 3,
-    "name": "Tênis Leve",
-    "price": 179.90,
-    "image": "https://via.placeholder.com/300x200/34D399/FFFFFF?text=Tênis",
-    "description": "Ideal para corrida, entrega expressa."
+    "name": "Ténis Desportivos Brancos",
+    "price": 39.95,
+    "image": "https://m.media-amazon.com/images/I/71yM9n7TNhL._AC_UY575_.jpg",
+    "description": "Leves e ideais para corrida, envio rápido."
+  },
+  {
+    "id": 4,
+    "name": "Carregador Portátil 10000mAh",
+    "price": 24.50,
+    "image": "https://m.media-amazon.com/images/I/61J3E0z5VSL._AC_SL1500_.jpg",
+    "description": "Power bank rápido, compatível com todos os dispositivos."
+  },
+  {
+    "id": 5,
+    "name": "Relógio Inteligente Fitness",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/71jQ%2B%2B%2B3KzL._AC_SL1500_.jpg",
+    "description": "Monitor de batimentos cardíacos, entrega em 6 dias."
+  },
+  {
+    "id": 6,
+    "name": "Mala de Viagem 50L",
+    "price": 59.90,
+    "image": "https://m.media-amazon.com/images/I/71nP%2B%2BXuGfL._AC_SL1500_.jpg",
+    "description": "Resistente e leve, ideal para viagens."
+  },
+  {
+    "id": 7,
+    "name": "Auriculares com Microfone",
+    "price": 14.99,
+    "image": "https://m.media-amazon.com/images/I/61f%2B%2B%2B8v%2B%2B%2BL._AC_SL1500_.jpg",
+    "description": "Auriculares com som claro, entrega em 5 dias."
+  },
+  {
+    "id": 8,
+    "name": "Câmara de Ação 4K",
+    "price": 89.95,
+    "image": "https://m.media-amazon.com/images/I/71h1%2B3wG%2B%2BL._AC_SL1500_.jpg",
+    "description": "Gravação em 4K, ideal para desporto."
+  },
+  {
+    "id": 9,
+    "name": "Chinelo de Praia",
+    "price": 12.50,
+    "image": "https://m.media-amazon.com/images/I/71%2B%2BX%2B%2BXx%2BL._AC_UY695_.jpg",
+    "description": "Confortável e durável, envio em 7 dias."
+  },
+  {
+    "id": 10,
+    "name": "Candeeiro LED Inteligente",
+    "price": 34.99,
+    "image": "https://m.media-amazon.com/images/I/61%2B%2B%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
+    "description": "Controlo por app, várias cores."
+  },
+  {
+    "id": 11,
+    "name": "Mochila Táctica 30L",
+    "price": 44.90,
+    "image": "https://m.media-amazon.com/images/I/71%2B%2B%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
+    "description": "Resistente à água, ideal para caminhadas."
+  },
+  {
+    "id": 12,
+    "name": "Colunas Bluetooth Portáteis",
+    "price": 39.95,
+    "image": "https://m.media-amazon.com/images/I/61%2B%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
+    "description": "Som potente, 15h de bateria."
+  },
+  {
+    "id": 13,
+    "name": "Óculos de Sol Polarizados",
+    "price": 19.90,
+    "image": "https://m.media-amazon.com/images/I/71%2B%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
+    "description": "Proteção UV, estilo moderno."
+  },
+  {
+    "id": 14,
+    "name": "Tapete de Ioga Antiderrapante",
+    "price": 29.99,
+    "image": "https://m.media-amazon.com/images/I/71%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
+    "description": "Espessura 6mm, ideal para exercícios."
+  },
+  {
+    "id": 15,
+    "name": "Cadeira de Gaming Ergonómica",
+    "price": 129.95,
+    "image": "https://m.media-amazon.com/images/I/71%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
+    "description": "Apoio lombar, entrega em 7 dias."
   }
 ]

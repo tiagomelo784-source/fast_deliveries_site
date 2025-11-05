@@ -1,107 +1,137 @@
 [
   {
     "id": 1,
-    "name": "T-shirt de Algodão Preto",
-    "price": 19.99,
-    "image": "https://m.media-amazon.com/images/I/71v3XJ0eF3L._AC_UY879_.jpg",
-    "description": "T-shirt 100% algodão, confortável, entrega em 7 dias."
+    "name": "T-shirt Algodão Orgânico Preto",
+    "price": 14.99,
+    "oldPrice": 24.99,
+    "stock": 3,
+    "image": "https://m.media-amazon.com/images/I/61J3E0z5VSL._AC_UY879_.jpg",
+    "description": "T-shirt premium 100% algodão orgânico, ultra macia."
   },
   {
     "id": 2,
-    "name": "Fones Bluetooth Sem Fio",
+    "name": "Fones Bluetooth Pro 5.0",
     "price": 29.90,
+    "oldPrice": 59.90,
+    "stock": 7,
     "image": "https://m.media-amazon.com/images/I/61cM%2BRk4xFL._AC_SL1500_.jpg",
-    "description": "Fones com cancelamento de ruído, 20h de bateria."
+    "description": "Cancelamento de ruído ativo, 30h de bateria."
   },
   {
     "id": 3,
-    "name": "Ténis Desportivos Brancos",
+    "name": "Ténis Running Ultra Leves",
     "price": 39.95,
+    "oldPrice": 79.95,
+    "stock": 2,
     "image": "https://m.media-amazon.com/images/I/71yM9n7TNhL._AC_UY575_.jpg",
-    "description": "Leves e ideais para corrida, envio rápido."
+    "description": "Sola em espuma, ideal para corrida diária."
   },
   {
     "id": 4,
-    "name": "Carregador Portátil 10000mAh",
+    "name": "Power Bank 20000mAh PD",
     "price": 24.50,
-    "image": "https://m.media-amazon.com/images/I/61J3E0z5VSL._AC_SL1500_.jpg",
-    "description": "Power bank rápido, compatível com todos os dispositivos."
+    "oldPrice": 49.00,
+    "stock": 12,
+    "image": "https://m.media-amazon.com/images/I/71nP%2B%2BXuGfL._AC_SL1500_.jpg",
+    "description": "Carregamento rápido PD 20W, 3 saídas."
   },
   {
     "id": 5,
-    "name": "Relógio Inteligente Fitness",
+    "name": "Smartwatch Fitness Pro",
     "price": 49.99,
+    "oldPrice": 99.99,
+    "stock": 5,
     "image": "https://m.media-amazon.com/images/I/71jQ%2B%2B%2B3KzL._AC_SL1500_.jpg",
-    "description": "Monitor de batimentos cardíacos, entrega em 6 dias."
+    "description": "Monitor cardíaco, GPS, 14 dias de bateria."
   },
   {
     "id": 6,
-    "name": "Mala de Viagem 50L",
+    "name": "Mala de Viagem 60L",
     "price": 59.90,
-    "image": "https://m.media-amazon.com/images/I/71nP%2B%2BXuGfL._AC_SL1500_.jpg",
-    "description": "Resistente e leve, ideal para viagens."
+    "oldPrice": 119.90,
+    "stock": 4,
+    "image": "https://m.media-amazon.com/images/I/81f%2B%2B%2B8v%2B%2B%2BL._AC_SL1500_.jpg",
+    "description": "Resistente à água, rodas 360°, cadeado TSA."
   },
   {
     "id": 7,
-    "name": "Auriculares com Microfone",
-    "price": 14.99,
+    "name": "Auriculares Gaming RGB",
+    "price": 19.99,
+    "oldPrice": 39.99,
+    "stock": 8,
     "image": "https://m.media-amazon.com/images/I/61f%2B%2B%2B8v%2B%2B%2BL._AC_SL1500_.jpg",
-    "description": "Auriculares com som claro, entrega em 5 dias."
+    "description": "Microfone retrátil, som 7.1 surround."
   },
   {
     "id": 8,
-    "name": "Câmara de Ação 4K",
-    "price": 89.95,
+    "name": "Câmara Desportiva 4K",
+    "price": 79.95,
+    "oldPrice": 149.95,
+    "stock": 1,
     "image": "https://m.media-amazon.com/images/I/71h1%2B3wG%2B%2BL._AC_SL1500_.jpg",
-    "description": "Gravação em 4K, ideal para desporto."
+    "description": "Wi-Fi, à prova de água até 30m, 170° grande angular."
   },
   {
     "id": 9,
-    "name": "Chinelo de Praia",
-    "price": 12.50,
+    "name": "Chinelo Ortopédico",
+    "price": 12.90,
+    "oldPrice": 25.90,
+    "stock": 15,
     "image": "https://m.media-amazon.com/images/I/71%2B%2BX%2B%2BXx%2BL._AC_UY695_.jpg",
-    "description": "Confortável e durável, envio em 7 dias."
+    "description": "Suporte de arco, ideal para praia e casa."
   },
   {
     "id": 10,
-    "name": "Candeeiro LED Inteligente",
-    "price": 34.99,
+    "name": "Lâmpada LED Inteligente",
+    "price": 29.99,
+    "oldPrice": 59.99,
+    "stock": 6,
     "image": "https://m.media-amazon.com/images/I/61%2B%2B%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
-    "description": "Controlo por app, várias cores."
+    "description": "16 milhões de cores, controlo por voz (Alexa/Google)."
   },
   {
     "id": 11,
-    "name": "Mochila Táctica 30L",
+    "name": "Mochila Antifurto 35L",
     "price": 44.90,
+    "oldPrice": 89.90,
+    "stock": 3,
     "image": "https://m.media-amazon.com/images/I/71%2B%2B%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
-    "description": "Resistente à água, ideal para caminhadas."
+    "description": "Porta USB, fecho oculto, resistente a cortes."
   },
   {
     "id": 12,
-    "name": "Colunas Bluetooth Portáteis",
-    "price": 39.95,
+    "name": "Coluna Bluetooth 60W",
+    "price": 59.95,
+    "oldPrice": 119.95,
+    "stock": 2,
     "image": "https://m.media-amazon.com/images/I/61%2B%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
-    "description": "Som potente, 15h de bateria."
+    "description": "IPX7 à prova de água, graves potentes."
   },
   {
     "id": 13,
-    "name": "Óculos de Sol Polarizados",
+    "name": "Óculos de Sol UV400",
     "price": 19.90,
+    "oldPrice": 39.90,
+    "stock": 10,
     "image": "https://m.media-amazon.com/images/I/71%2B%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
-    "description": "Proteção UV, estilo moderno."
+    "description": "Lentes polarizadas, armação em titânio."
   },
   {
     "id": 14,
-    "name": "Tapete de Ioga Antiderrapante",
-    "price": 29.99,
+    "name": "Tapete de Ioga 8mm",
+    "price": 24.99,
+    "oldPrice": 49.99,
+    "stock": 7,
     "image": "https://m.media-amazon.com/images/I/71%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
-    "description": "Espessura 6mm, ideal para exercícios."
+    "description": "Antiderrapante, ecológico, inclui bolsa."
   },
   {
     "id": 15,
-    "name": "Cadeira de Gaming Ergonómica",
+    "name": "Cadeira Gaming RGB",
     "price": 129.95,
+    "oldPrice": 259.95,
+    "stock": 1,
     "image": "https://m.media-amazon.com/images/I/71%2B%2B%2B%2B%2BL._AC_SL1500_.jpg",
-    "description": "Apoio lombar, entrega em 7 dias."
+    "description": "Apoio lombar, iluminação LED, reclinável 180°."
   }
 ]

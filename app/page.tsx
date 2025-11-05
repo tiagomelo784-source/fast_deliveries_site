@@ -1,4 +1,4 @@
-'use client'; // ← ESSENCIAL
+'use client';
 
 import { motion } from 'framer-motion';
 import ProductCard from '../components/ProductCard';
@@ -16,7 +16,7 @@ export default function Home() {
           >
             Fast Deliveries
           </motion.h1>
-          <p className="text-xl">Entrega em até 7 dias úteis!</p>
+          <p className="text-xl">Entregas em até 7 dias úteis!</p>
         </div>
       </section>
 
@@ -24,7 +24,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-8">Mais Vendidos</h2>
           <div className="grid md:grid-cols-3 gap-6">
-            {products.slice(0, 3).map((product: any) => (
+            {products.slice(0, 6).map((product: any) => (
               <ProductCard key={product.id} product={product} />
             ))}
           </div>

@@ -17,7 +17,11 @@ export default function ProductCard({ product }: { product: Product }) {
     let cart = JSON.parse(localStorage.getItem('cart') || '[]');
     cart.push(product);
     localStorage.setItem('cart', JSON.stringify(cart));
-    alert('Adicionado ao carrinho!');
+    alert(`Adicionado ao carrinho! Total parcial: R$ ${calculateTotal(cart).toFixed(2)}`);
+  };
+
+  const calculateTotal = (cart: Product[]) => {
+    return cart.reduce((total, item) => total + item.price, 0);
   };
 
   return (
@@ -29,13 +33,13 @@ export default function ProductCard({ product }: { product: Product }) {
       <div className="p-4">
         <h3 className="font-bold text-lg mb-2">{product.name}</h3>
         <p className="text-gray-600 mb-2 text-sm">{product.description}</p>
-        <p className="text-2xl font-bold text-primary">R$ {product.price}</p>
+        <p className="text-2xl font-bold text-primary">R$ {product.price.toFixed(2)}</p>
         <div className="flex gap-2 mt-4">
           <button
             onClick={() => router.push(`/product/${product.id}`)}
             className="flex-1 bg-secondary text-white py-2 rounded text-sm"
           >
-            Ver
+            Ver Detalhes
           </button>
           <button onClick={addToCart} className="flex-1 bg-primary text-white py-2 rounded text-sm">
             Comprar
